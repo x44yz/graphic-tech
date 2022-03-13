@@ -33,5 +33,23 @@ Degree 范围 (-180, 180)
 ## Channel Mask
 要屏蔽的通道?但是为什么感觉是要保留的通道
 
+## Combie
+组合成新的 RGBA
+
+## Flip
+类似去掉某个通道的值
+
+## Split
+将 RGBA 拆分开
+
+## Swizzle
+将 RGBA 通道的值重新调整顺序
+
+## Screen Position
+Mode 是什么意思
+
+## View Direction
+摄像机与顶点连线方向
+
 
 
