@@ -17,3 +17,4 @@ https://www.youtube.com/watch?v=NiOGWZXBg4Y
 ## moncage  
 模仿《笼中窥梦》的效果  
 ![.](./moncage//Preview.png)
+![.](./moncage//PreviewStencil.png)
