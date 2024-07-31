@@ -10,11 +10,17 @@ https://www.youtube.com/watch?v=w0znZIuvQ2I&list=PLpPd_BKEUoYjcFaqriaMchx5gOqBs2
 
 ## shader-forcefield  
 https://www.youtube.com/watch?v=NiOGWZXBg4Y
+![.](./shader-forcefield/preview.png)
 
 
 ## shader-outline  
+![.](./shader-outline/Preview.png)
 
 ## moncage  
 模仿《笼中窥梦》的效果  
 ![.](./moncage//Preview.png)
 ![.](./moncage//PreviewStencil.png)
+
+## pixel-postprocessing
+后效实现像素效果  
+![.](./pixel-postprocessing/Preview.png)
