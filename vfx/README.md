@@ -11,3 +11,11 @@ https://www.bilibili.com/video/BV1LT4y1z7h7/?spm_id_from=333.337.search-card.all
 
 实现细节就是在一个球形内随机发射，将 X 方向随机缩放压扁
 ![.](./preview-spark.png)
+
+> 闪电 Lightning
+1.可以使用 flipbooks，手绘帧
+2.使用粒子 noise 效果，但是不好控制结束点  
+3.使用 linerender 
+4.使用 shader 程序生成  
+
+https://www.bilibili.com/video/BV1SuUrYZEdV
